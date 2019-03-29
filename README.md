@@ -1,2 +1,2 @@
 # GraphQL Project
-Book list project client-side
+Book list project client-side. Made with React and Apollo.
